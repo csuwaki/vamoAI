@@ -1,0 +1,1 @@
+print("SEJA BEM-VINDO AO JOGO")
