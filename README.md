@@ -13,6 +13,7 @@ O programa vamo AI foi desenvolvido pelo iFood em parceria com a Resilia Educaç
 * Algoritmo e pensamento computacional
 * Lógica de programação: variáveis, condicionais, loops, funções, listas
 * Versionamento de código
+* [Projeto Final - Módulo 1](https://github.com/csuwaki/JogoResilia)
 
 
 Módulo 2: Orientação a objetos e utilização de aplicações HTTP
