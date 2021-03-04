@@ -17,6 +17,11 @@ O programa vamo AI foi desenvolvido pelo iFood em parceria com a Resilia Educaç
 
 
 Módulo 2: Orientação a objetos e utilização de aplicações HTTP
+* Estrutura de dados: listas, dicionários, filas e pilhas
+* Orientação a objetos
+* Bibliotecas
+* Ambientes virtuais
+* Utilização de API’s REST e Microsserviços com HTTPs
 
 Módulo 3: Modelos de armazenamento de dados
 
