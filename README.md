@@ -16,7 +16,7 @@ O programa vamo AI foi desenvolvido pelo iFood em parceria com a Resilia Educaç
 * [Projeto Final - Módulo 1](https://github.com/csuwaki/JogoResilia)
 
 
-### Módulo 2: Orientação a objetos e utilização de aplicações HTTP
+### [Módulo 2: Orientação a objetos e utilização de aplicações HTTP](https://github.com/csuwaki/vamoAI/tree/main/modulo2)
 * Estrutura de dados: listas, dicionários, filas e pilhas
 * Orientação a objetos
 * Bibliotecas
