@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/csuwaki/vamoai/blob/main/imagens/vamoai.png">
+  <img src="https://github.com/csuwaki/vamoAI/blob/main/imagens/vamoAI.png">
 </p>
 
 
