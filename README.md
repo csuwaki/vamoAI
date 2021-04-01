@@ -25,8 +25,33 @@ O programa vamo AI foi desenvolvido pelo iFood em parceria com a Resilia Educaç
 
 Módulo 3: Modelos de armazenamento de dados
 
+* Banco de dados relacionais
+* Banco de dados não-relacionais
+* Modelagem relacional
+* Cardinalidade
+* Carga de dados 
+* Consultas a Bancos de dados 
+* Estruturação e esquematização de entidades 
+* Alteração e deleção de dados 
+* Vieses cognitivos
+* Análise de dados
+* Docker
+
 Módulo 4: Operações em banco de dados e Análise de dados
+* NoSQL em DynamoDB
+* Integração entre bancos de dados e Pyhton
+* Análise de dados
 
 Módulo 5: Bibliotecas científicas do Python
+* Google Colaboratory
+* Pandas
+* Numpy
+* Scikitlearn
+* Capacidade investigativa (fazer perguntas certas)
+* Análise de dados
 
 Módulo 6: Exibição e apresentação de dados
+* Estatística e probabilidade
+* Visualização de dados
+* Storytelling com dados
+* Mineração de dados

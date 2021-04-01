@@ -33,12 +33,3 @@ print(Pilha.pilhaderoupas)
 print(Pilha.tamanho())
 
 print(Pilha.pilhaderoupas.pop())
-
-
- rev = ''
-  while len(stack) > 0:
-       last = stack.pop()
-       rev = rev + last
-       # print(last, rev)
-       
-  return rev
