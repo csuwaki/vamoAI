@@ -22,6 +22,7 @@ O programa vamo AI foi desenvolvido pelo iFood em parceria com a Resilia Educaç
 * Bibliotecas
 * Ambientes virtuais
 * Utilização de API’s REST e Microsserviços com HTTPs
+* [Projeto Final - Módulo 2](https://github.com/csuwaki/projeto_modulo_2)
 
 Módulo 3: Modelos de armazenamento de dados
 
