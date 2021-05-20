@@ -37,6 +37,7 @@ Módulo 3: Modelos de armazenamento de dados
 * Vieses cognitivos
 * Análise de dados
 * Docker
+* [Projeto Final - Módulo 3](https://github.com/csuwaki/projeto3-vamoai)
 
 Módulo 4: Operações em banco de dados e Análise de dados
 * NoSQL em DynamoDB
