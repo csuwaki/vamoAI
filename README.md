@@ -24,7 +24,7 @@ O programa vamo AI foi desenvolvido pelo iFood em parceria com a Resilia Educaç
 * Utilização de API’s REST e Microsserviços com HTTPs
 * [Projeto Final - Módulo 2](https://github.com/csuwaki/projeto_modulo_2)
 
-Módulo 3: Modelos de armazenamento de dados
+Módulo 3: Modelos de armazenamento de dados e operações em bancos de dados
 
 * Banco de dados relacionais
 * Banco de dados não-relacionais
@@ -37,14 +37,11 @@ Módulo 3: Modelos de armazenamento de dados
 * Vieses cognitivos
 * Análise de dados
 * Docker
+* NoSQL em DynamoDB
 * [Projeto Final - Módulo 3](https://github.com/csuwaki/projeto3-vamoai)
 
-Módulo 4: Operações em banco de dados e Análise de dados
-* NoSQL em DynamoDB
+Módulo 4: Bibliotecas científicas do Python
 * Integração entre bancos de dados e Pyhton
-* Análise de dados
-
-Módulo 5: Bibliotecas científicas do Python
 * Google Colaboratory
 * Pandas
 * Numpy
@@ -52,7 +49,7 @@ Módulo 5: Bibliotecas científicas do Python
 * Capacidade investigativa (fazer perguntas certas)
 * Análise de dados
 
-Módulo 6: Exibição e apresentação de dados
+Módulo 5: Exibição e apresentação de dados
 * Estatística e probabilidade
 * Visualização de dados
 * Storytelling com dados
