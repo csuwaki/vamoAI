@@ -38,7 +38,7 @@ Módulo 3: Modelos de armazenamento de dados e operações em bancos de dados
 * Análise de dados
 * Docker
 * NoSQL em DynamoDB
-* [Projeto Final - Módulo 3](https://github.com/csuwaki/projeto3-vamoai)
+* [Projeto Final - Módulo 3](https://github.com/soaresana/projeto3-vamoai)
 
 Módulo 4: Bibliotecas científicas do Python
 * Integração entre bancos de dados e Pyhton
