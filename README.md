@@ -40,8 +40,8 @@ Módulo 3: Modelos de armazenamento de dados e operações em bancos de dados
 * NoSQL em DynamoDB
 * [Projeto Final - Módulo 3](https://github.com/soaresana/projeto3-vamoai)
 
-Módulo 4: Bibliotecas científicas do Python
-* Integração entre bancos de dados e Pyhton
+### [Módulo 4: Bibliotecas científicas do Python](https://github.com/csuwaki/vamoAI/tree/main/modulo4)
+* Integração entre bancos de dados e Python
 * Google Colaboratory
 * Pandas
 * Numpy
