@@ -51,9 +51,9 @@ def gritar(funcao):
 
 ```
 
- > *args permite que você receba argumentos arbitrários, isto é, quantos quiser. 
+ > *args permite que você receba argumentos arbitrários, isto é, quantos quiser. No formato de tuplas.
  >
- >**Exemplo** (1,"a", 56, "não"). No formato de tuplas.
+ >**Exemplo**: (1,"a", 56, "não"). 
 >
 > **kwargs permite que você receba argumentos arbitrários em formato de keyword values, isto é, chave:valor. No formato de dict. 
 >
