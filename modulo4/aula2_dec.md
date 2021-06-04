@@ -1,9 +1,9 @@
 ### Decorators (decoradores)
 * São funções que envolvem outras funções e aprimoram seu comportamento.
-- São exemplos de _Higher Order Functions_.
-- Possuem sintaxe própria, utilizando um "@" no início (Syntactic Sugar).
-- Syntactic sugar é uma sintaxe que tem por finalidade tornar as construções mais fáceis de serem lidas e expressas.
-- Uma construção na linguagem pode ser chamada de Syntactic Sugar se for removida sem causar nenhum efeito sobre a 
+* São exemplos de _Higher Order Functions_.
+* Possuem sintaxe própria, utilizando um "@" no início (Syntactic Sugar).
+* Syntactic sugar é uma sintaxe que tem por finalidade tornar as construções mais fáceis de serem lidas e expressas.
+* Uma construção na linguagem pode ser chamada de Syntactic Sugar se for removida sem causar nenhum efeito sobre a 
 funcionalidade e o poder de expressividade do código.
 
 #### Exemplo:
