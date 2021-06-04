@@ -43,7 +43,7 @@ print(saudacao('Carol'))
 
 > **Resolvendo o problema de receber apenas um argumento com Decorator Pattern**:
 
-```
+```python
 def gritar(funcao):
     def aumentar(*args, **kwargs):
         return funcao(*args, **kwargs).upper()
