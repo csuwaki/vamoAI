@@ -29,7 +29,7 @@ class Student(Base):
 Base.metadata.create_all(engine) #Cria a tabela
 
 ##### ADICIONANDO DADOS #####
-"""student1 = Student(name="Jerin", age=27, grade="Fifth")
+student1 = Student(name="Jerin", age=27, grade="Fifth")
 session.add(student1)
 session.commit()
 
@@ -38,9 +38,9 @@ student2 = Student(name="Carol", age=27, grade="Fifth")
 student3 = Student(name="Jerin", age=25,grade="Third")
 
 session.add_all([student2, student3]) #para adicionar mais de um valor, colocar dentro de uma lista.
-session.commit()"""
+session.commit()
 
-"""
+
 #LENDO DADOS#
 
 students = session.query(Student)
@@ -64,8 +64,7 @@ students = session.query(Student).filter(or(Student.name=="Jerin", Student.name=
 
 for student in students:
     print(student.name, student.age)
-
-
+                                         
 
 ### COUNT ###
 student_count = session.query(Student).filter(or_(Student.name=="Jerin", Student.name=="Carol")).count()
@@ -75,7 +74,6 @@ print(student_count)
 student = session.query(Student).filter(Student.name=="Jerin")
 student.name = "Anita"
 session.commit()
-"""
 
 ###DELETAR UM VALOR###
 student = session.query(Student).filter(Student.name=="Carol").first()
