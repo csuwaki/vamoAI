@@ -48,9 +48,11 @@ Módulo 3: Modelos de armazenamento de dados e operações em bancos de dados
 * Scikitlearn
 * Capacidade investigativa (fazer perguntas certas)
 * Análise de dados
+* [Projeto Final - Módulo 4](https://github.com/csuwaki/projetofinalmodulo4)
 
 Módulo 5: Exibição e apresentação de dados
 * Estatística e probabilidade
 * Visualização de dados
 * Storytelling com dados
 * Mineração de dados
+* [Projeto Final - Módulo 5](https://github.com/ramonbrito1995/case_vamoai_ifood)
